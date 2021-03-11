@@ -1,0 +1,108 @@
+
+body {
+  padding: 0;
+  background-color: rgb(255, 255, 255)
+}
+/* banner image */
+header {
+  height: 535px;
+  margin-top: 0;
+ background:  
+   url(images/mountain.jpg);
+  background-size: cover;
+}
+/*header/nav*/
+header h1 {
+  color: rgb(0, 0, 0);
+  font-family: calibri;
+  font-size: 25px; 
+  font-weight: 400;
+  margin-top: 0;
+  padding: 30px 0 0 30px;
+  text-align: left;
+} /* Title of Web-page */ 
+header h2 {
+  color: white;
+  font-family: calibri;
+  text-align: center;
+  font-size: 120px;
+  font-weight: 400;
+  margin-top: 150px;
+}
+
+hr{
+  height: 5px;
+  background-color:#3cc3b2;
+  border: px solid #3cc3b2;
+  margin-top:0;
+  margin-left:0;
+}
+
+div {
+  text-align: center;
+  line-height: 50px;
+}
+/*main body of page */
+main div {
+text-align: justify;
+font-size: 35px;
+margin-left: 80px;
+margin-right: 0;
+}
+
+h3, h4 {
+  font-family: Calibri;
+  color: black;
+  font-size: 68px;
+  font-weight: 400; 
+  padding: 0 0 0 0;
+}
+/*my location */
+.location {
+  color: rgb(0, 0, 0);
+  font-family: Calibri;
+  margin-left: 110px;
+  padding-bottom: 20px;
+}
+
+h4 {
+color: #3cc3b2;
+
+}
+
+li {
+  color:rgb(0, 0, 0);
+  font-family: calibri;
+  font-size: 33px;
+  line-height: 50px;
+}
+main p {
+  color: #000000;
+  margin-top: 35px;
+  font-family: calibri;
+}
+
+a, nav {
+  font-family: calibri;
+  font-size: 20px;
+}
+a:link {color:#000000;}
+a:visited{color: gray;}
+a:hover{color:#3cc3b2;}
+a:active{color: darkcyan;}
+
+footer p {
+  color: white;
+  text-align: center;
+  font-family: calibri;
+}
+footer {
+  background-color: black;
+  height: 100px;
+  margin-top: 160px;
+  padding: 50px 0px 0px 0px;
+}
+img {
+  padding: 0px 0px 50px 0px;
+  margin: 0px;
+}
