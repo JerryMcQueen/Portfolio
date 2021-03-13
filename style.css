@@ -13,7 +13,7 @@ header {
 }
 /*header/nav*/
 header h1 {
-  color: #E95E01;
+  color: #18622B;
   font-family: calibri;
   font-size: 25px; 
   font-weight: 400;
@@ -22,7 +22,7 @@ header h1 {
   text-align: left;
 } /* Title of Web-page */ 
 header h2 {
-  color: #E95E01;
+  color: #18622B;
   font-family: calibri;
   text-align: center;
   font-size: 120px;
